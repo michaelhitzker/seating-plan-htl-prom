@@ -4,6 +4,8 @@
 
 Der Sitzplan ist [hier](./seating-plan.pdf) zu finden.
 
+Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tische reservieren und unbedingt die Anzahl der Personen auf jedem Tisch angeben, damit die leeren Plätze aufgefüllt werden können.
+
 |  Tischnummer |  Schülername          | Klasse | Anzahl von Personen am Tisch |
 |:------------:| --------------------- | ------ |:----------------------------:|
 |      01      |                       |        |                              |
