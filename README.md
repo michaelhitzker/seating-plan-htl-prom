@@ -1,5 +1,8 @@
 # Sitzplan - Maturaball HTL Perg 2019
 
+>:information_source: Jede pull request muss nach nach folgendem Schema aufgebaut sein\
+`<Tischnr.> - <Schülername>`
+
 |  Tischnummer |  Schülername          | Klasse | Anzahl an Personen am Tisch |
 |:------------:| --------------------- | ------ |:---------------------------:|
 |      01      |                       |        |                             |
