@@ -17,7 +17,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      07      |                       |        |                              |
 |      08      |                       |        |                              |
 |      09      |                       |        |                              |
-|      10      | Thomas Brych          | 5BHIF  | 10                           |
+|      10      |                       |        |                              |
 |      11      | Jürgen Riegler        | 5AHIF  | 10                           |
 |      12      | Max Gusenbauer        | 5AHIF  | 10                           |
 |      13      | Max Gusenbauer        | 5AHIF  | 4                            |
@@ -64,8 +64,8 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      54      |                       |        |                              |
 |      55      | Markus Kurzmann       | 5BHIF  |                              |
 |      56      | Michael Hitzker       | 5BHIF  | 5                            |
-|      57      |                       |        |                              |
-|      58      |                       |        |                              |
+|      57      | Thomas Brych          | 5BHIF  | 5                            |
+|      58      | Thomas Brych          | 5BHIF  | 5                            |
 |      59      | FlorianFriedl         | 5AHIF  |                              |
 |      60      |                       |        |                              |
 |      61      |                       |        |                              |
