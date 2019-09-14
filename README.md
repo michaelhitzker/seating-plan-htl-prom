@@ -26,7 +26,7 @@
 |      20      | Daniel Pallinger      | 5AHIF  | 7                            |
 |      21      | LEHRER                |        |                              |
 |      22      | LEHRER                |        |                              |
-|      23      |                       |        |                              |
+|      23      | Alexander Schönberger | 5AHIF  |                              |
 |      24      |                       |        |                              |
 |      25      |                       |        |                              |
 |      26      |                       |        |                              |
