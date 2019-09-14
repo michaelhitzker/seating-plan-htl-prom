@@ -19,8 +19,8 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      09      |                       |        |                              |
 |      10      |                       |        |                              |
 |      11      | Jürgen Riegler        | 5AHIF  | 10                           |
-|      12      |                       |        |                              |
-|      13      |                       |        |                              |
+|      12      | Max Gusenbauer        | 5AHIF  | 10                           |
+|      13      | Max Gusenbauer        | 5AHIF  | 4                            |
 |      14      |                       |        |                              |
 |      15      | LEHRER                |        |                              |
 |      16      | LEHRER                |        |                              |
