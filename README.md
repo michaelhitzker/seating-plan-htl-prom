@@ -22,7 +22,7 @@ Der Sitzplan ist [hier](./seating-plan.pdf) zu finden.
 |      14      |                       |        |                              |
 |      15      | LEHRER                |        |                              |
 |      16      | LEHRER                |        |                              |
-|      17      |                       |        |                              |
+|      17      | Lukas Rauchenzauner   |5AHIF   |                              |
 |      18      | LEHRER                |        |                              |
 |      19      | LEHRER                |        |                              |
 |      20      | Daniel Pallinger      | 5AHIF  | 7                            |
