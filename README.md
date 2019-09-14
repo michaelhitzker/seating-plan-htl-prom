@@ -9,7 +9,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |  Tischnummer |  Schülername          | Klasse | Anzahl von Personen am Tisch |
 |:------------:| --------------------- | ------ |:----------------------------:|
 |      01      |                       |        |                              |
-|      02      |                       |        |                              |
+|      02      | Hofer Daniel          | 5AHIF  |                              |
 |      03      | Katrin Haslinger      | 5AHIF  |                              |
 |      04      |                       |        |                              |
 |      05      |                       |        |                              |
@@ -19,9 +19,9 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      09      |                       |        |                              |
 |      10      |                       |        |                              |
 |      11      | Jürgen Riegler        | 5AHIF  | 10                           |
-|      12      | Max Gusenbauer        | 5AHIF  | 10                           |
-|      13      | Max Gusenbauer        | 5AHIF  | 4                            |
-|      14      |                       |        |                              |
+|      12      |                       |        |                              |
+|      13      |                       |        |                              |
+|      14      | Hofer Daniel          | 5AHIF  |    4                         |
 |      15      | LEHRER                |        |                              |
 |      16      | LEHRER                |        |                              |
 |      17      | Lukas Rauchenzauner   | 5AHIF  |                              |
@@ -30,7 +30,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      20      | Daniel Pallinger      | 5AHIF  | 7                            |
 |      21      | LEHRER                |        |                              |
 |      22      | LEHRER                |        |                              |
-|      23      |                       |        |                              |
+|      23      | Alexander Schönberger | 5AHIF  |    kp                        |
 |      24      |                       |        |                              |
 |      25      |                       |        |                              |
 |      26      |                       |        |                              |
