@@ -59,7 +59,7 @@
 |      53      |                       |        |                              |
 |      54      |                       |        |                              |
 |      55      | Markus Kurzmann       | 5BHIF  |                              |
-|      56      |                       |        |                              |
+|      56      |Michael Hitzker|5BHIF| 5                             |
 |      57      |                       |        |                              |
 |      58      |                       |        |                              |
 |      59      |                       |        |                              |
