@@ -8,7 +8,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 
 |  Tischnummer |  Schülername          | Klasse | Anzahl von Personen am Tisch |
 |:------------:| --------------------- | ------ |:----------------------------:|
-|      01      |                       |        |                              |
+|      01      | Lang Christina        | 5AHIF  | 10                           |
 |      02      | Hofer Daniel          | 5AHIF  | 2                            |
 |      03      | Katrin Haslinger      | 5AHIF  |                              |
 |      04      |                       |        |                              |
