@@ -2,6 +2,8 @@
 
 >:information_source: Jede pull request muss nach nach folgendem Schema aufgebaut sein: `<Tischnr.> - <Schülername>`
 
+Der Sitzplan ist [hier](./seatomg-plan.pdf) zu finden.
+
 |  Tischnummer |  Schülername          | Klasse | Anzahl von Personen am Tisch |
 |:------------:| --------------------- | ------ |:----------------------------:|
 |      01      |                       |        |                              |
