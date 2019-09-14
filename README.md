@@ -28,7 +28,7 @@ Der Sitzplan ist [hier](./seating-plan.pdf) zu finden.
 |      20      | Daniel Pallinger      | 5AHIF  | 7                            |
 |      21      | LEHRER                |        |                              |
 |      22      | LEHRER                |        |                              |
-|      23      | Alexander Schönberger | 5AHIF  |                              |
+|      23      |                       |        |                              |
 |      24      |                       |        |                              |
 |      25      |                       |        |                              |
 |      26      |                       |        |                              |
@@ -64,7 +64,7 @@ Der Sitzplan ist [hier](./seating-plan.pdf) zu finden.
 |      56      | Michael Hitzker       | 5BHIF  | 5                            |
 |      57      |                       |        |                              |
 |      58      |                       |        |                              |
-|      59      |                       |        |                              |
+|      59      | FlorianFriedl         | 5AHIF  |                              |
 |      60      |                       |        |                              |
 |      61      |                       |        |                              |
          
