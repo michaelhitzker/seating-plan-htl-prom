@@ -16,13 +16,13 @@ Der Sitzplan ist [hier](./seating-plan.pdf) zu finden.
 |      08      |                       |        |                              |
 |      09      |                       |        |                              |
 |      10      |                       |        |                              |
-|      11      |                       |        |                              |
+|      11      | Jürgen Riegler        | 5AHIF  | 10                           |
 |      12      |                       |        |                              |
 |      13      |                       |        |                              |
 |      14      |                       |        |                              |
 |      15      | LEHRER                |        |                              |
 |      16      | LEHRER                |        |                              |
-|      17      |                       |        |                              |
+|      17      | Lukas Rauchenzauner   | 5AHIF  |                              |
 |      18      | LEHRER                |        |                              |
 |      19      | LEHRER                |        |                              |
 |      20      | Daniel Pallinger      | 5AHIF  | 7                            |
@@ -61,10 +61,10 @@ Der Sitzplan ist [hier](./seating-plan.pdf) zu finden.
 |      53      |                       |        |                              |
 |      54      |                       |        |                              |
 |      55      | Markus Kurzmann       | 5BHIF  |                              |
-|      56      |Michael Hitzker|5BHIF| 5                             |
+|      56      | Michael Hitzker       | 5BHIF  | 5                            |
 |      57      |                       |        |                              |
 |      58      |                       |        |                              |
-|      59      |FlorianFriedl          | 5AHIF  |                              |
+|      59      | FlorianFriedl         | 5AHIF  |                              |
 |      60      |                       |        |                              |
 |      61      |                       |        |                              |
          
