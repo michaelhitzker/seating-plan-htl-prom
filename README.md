@@ -19,9 +19,9 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      09      |                       |        |                              |
 |      10      |                       |        |                              |
 |      11      | Jürgen Riegler        | 5AHIF  | 10                           |
-|      12      |                       |        |                              |
-|      13      |                       |        |                              |
-|      14      | Hofer Daniel          | 5AHIF  |    4                         |
+|      12      | Max Gusenbauer        | 5AHIF  | 10                           |
+|      13      | Max Gusenbauer        | 5AHIF  | 4                            |
+|      14      | Hofer Daniel          | 5AHIF  | 4                            |
 |      15      | LEHRER                |        |                              |
 |      16      | LEHRER                |        |                              |
 |      17      | Lukas Rauchenzauner   | 5AHIF  |                              |
@@ -30,7 +30,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      20      | Daniel Pallinger      | 5AHIF  | 7                            |
 |      21      | LEHRER                |        |                              |
 |      22      | LEHRER                |        |                              |
-|      23      | Alexander Schönberger | 5AHIF  |    kp                        |
+|      23      | Alexander Schönberger | 5AHIF  |                              |
 |      24      |                       |        |                              |
 |      25      |                       |        |                              |
 |      26      |                       |        |                              |
