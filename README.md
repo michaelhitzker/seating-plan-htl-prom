@@ -61,8 +61,8 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      51      |                       |        |                              |
 |      52      |                       |        |                              |
 |      53      |                       |        |                              |
-|      54      |                       |        |                              |
-|      55      | Markus Kurzmann       | 5BHIF  |                              |
+|      54      | Tim Klecka            | 5BHIF  |                              |
+|      55      | Markus Kurzmann       | 5BHIF  | 10                           |
 |      56      | Michael Hitzker       | 5BHIF  | 5                            |
 |      57      |                       |        |                              |
 |      58      |                       |        |                              |
