@@ -13,7 +13,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      03      | Katrin Haslinger      | 5AHIF  |                              |
 |      04      |                       |        |                              |
 |      05      |                       |        |                              |
-|      06      |                       |        |                              |
+|      06      | René Stadler          | 5BHIF  | 10                           |
 |      07      |                       |        |                              |
 |      08      |                       |        |                              |
 |      09      |                       |        |                              |
