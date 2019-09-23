@@ -55,8 +55,8 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      45      |                       |        |                              |
 |      46      |                       |        |                              |
 |      47      |                       |        |                              |
-|      48      |                       |        |                              |
-|      49      |                       |        |                              |
+|      48      |Martin Böhm            |5BHIF   |10                            |
+|      49      |Martin Böhm            |5BHIF   |10                            |
 |      50      |                       |        |                              |
 |      51      |                       |        |                              |
 |      52      |                       |        |                              |
